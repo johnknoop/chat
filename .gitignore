@@ -1,0 +1,12 @@
+
+Chat\.sln\.DotSettings\.user
+
+Chat/bin/Debug/netcoreapp2\.2/
+
+Chat/obj/Debug/netcoreapp2\.2/
+
+Chat/obj/
+
+*.DotSettings
+
+\.vs/Chat/v15/
